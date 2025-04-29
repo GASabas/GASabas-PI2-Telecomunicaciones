@@ -28,21 +28,11 @@ El tablero busca ofrecer una visión interactiva de los datos, permitiendo explo
       Provincia.
       Tipos de tecnología (internet, telefonía móvil, televisión).
       Segmentaciones y accesos diferenciados.
-![image](https://github.com/user-attachments/assets/3e9e04b9-93be-4e6b-aa2c-e1d81db68015)
-
 En la calidad del servicio vemos cuáles son las teconologías utilizadas en ralción al Mbps contratados. Podemos ver que los Mbps de bajada, filtrados para la provincia de Buenos Aires, en el Trimestre 1 y 2, una desviación de 1 para el año 2024.
 
-El KPI muestra la relación de la cantidad de accesos por hogar en relación a la cantidad de hogares que hay por provincia (esto se calculó a partir de un porcentaje de la población económicamente activa de cada provincia) con esto observamos como objetivo cuántos hogares nos faltan por crecer, teniendo en cuenta que tambíen existen otros productos para insertarce en el mercado y mejorar
-
-![image](https://github.com/user-attachments/assets/2045532a-ec9c-443f-8a72-c0fb3ae1a3f5)
-
-En esta imagen siguiente podemos ver el KPI donde indica la relación entre los accesos en relación a la población y el objetivo a llegar según estudios sobre el crecimiento del sector, también la distribución de los accesos a internet con los diferentes usos de tecnologías y las localidades que nos ayudará a medir la Calidad del servicio
-
-![image](https://github.com/user-attachments/assets/e897560c-03ec-4bf9-b09f-8fbb7c93ee0b)
+El KPI muestra la relación de la cantidad de accesos por hogar en relación a la cantidad de hogares que hay por provincia (esto se calculó a partir de un porcentaje de la población económicamente activa de cada provincia) con esto observamos como objetivo cuántos hogares nos faltan por crecer, teniendo en cuenta que tambíen existen otros productos para insertarce en el mercado y mejorar Tambien podemos ver el KPI donde indica la relación entre los accesos en relación a la población y el objetivo a llegar según estudios sobre el crecimiento del sector, también la distribución de los accesos a internet con los diferentes usos de tecnologías y las localidades que nos ayudará a medir la Calidad del servicio
 
 Cuando hablamos de otros productos, nos referimos a "TV por suscripción y satelital" y a "Telefonía prepago, postpago y operativo" podemos ver otro nicho con mucha oportunidad. 
-
-![image](https://github.com/user-attachments/assets/3b798478-dee4-4ffe-83bb-7c7ea7c01ff8)
 
 # Conclusiones
 Tecnologías predominantes: La fibra óptica y el cable módem son las más utilizadas. Su prevalencia varía entre provincias.
